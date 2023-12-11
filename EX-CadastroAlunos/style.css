@@ -1,0 +1,52 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+.menu {
+    background-color: #333;
+    padding: 10px;
+    text-align: center;
+}
+
+.menu a {
+    color: white;
+    text-decoration: none;
+    margin: 10px;
+}
+
+.content {
+    margin: 20px;
+}
+
+form {
+    margin-top: 20px;
+}
+
+label {
+    display: inline-block;
+    width: 100px;
+}
+
+input {
+    width: 300px;
+    margin-bottom: 10px;
+}
+
+h1 {
+    color: #333;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+table, th, td {
+    border: 1px solid #333;
+}
+
+th, td {
+    padding: 8px;
+    text-align: left;
+}
+
